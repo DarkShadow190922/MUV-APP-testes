@@ -1,0 +1,8 @@
+{
+  "name": "Lynx TikTok",
+  "description": "A high-performance TikTok clone with integrated monetization, live streaming mocks, and AI-powered content discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
